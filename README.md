@@ -1,4 +1,4 @@
-# ecommerce-# E-commerce Business Metrics Analysis
+# E-commerce Business Metrics Analysis
 
 ## 📌 Project Overview
 This project focuses on analyzing transactional E-commerce data to evaluate key business performance metrics. The goal was to transform raw data into actionable business insights using SQL and Google Sheets.
