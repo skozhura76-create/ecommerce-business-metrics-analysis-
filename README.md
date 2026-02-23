@@ -30,4 +30,11 @@ This project focuses on analyzing transactional E-commerce data to evaluate key 
 - Highlighted high-performing product categories
 - ## 🚀 Outcome
 Delivered a structured dashboard and business recommendations to support data-driven decision-making.
+## 📊 Dashboard Preview
+![Dashboard](dashboard_preview.png)
+
+## 🔗 Live Dashboard
+Google Sheets link:  
+https://docs.google.com/spreadsheets/d/1c-ZQuhm_XFV7vZLCQfPTVEr0t8kmPiyCnGCB4usAWl8
+
 
